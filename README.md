@@ -1,2 +1,1 @@
-# snowykami home page
-# SnowyKami的个人主页
+# SnowyKami的个人主页(从那里改的)
